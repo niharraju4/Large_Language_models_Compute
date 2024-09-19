@@ -23,10 +23,15 @@ add special trainings, right?
 
 ---
 
-LLMS
+LLMS </br>
 -Large </br>
 -Large training dataset </br>
 -Large number of parameters
+General purpose   </br>
+-Commonality of human Languagues  </br>General purpose is when the models are sufficient to solve common problems. </br>
+-Resouce restriction
+
+
 
 ---
 
@@ -47,6 +52,12 @@ sometimes at the petabyte scale.
 Parameters are basically the memories and the knowledge that the machine learned from the model training. </br>
 Parameters define the skill of a model in solving a problem, such as predicting text. 
 
+--
+
+pre-trained and fine-tuned
+
+which mean to pre-train a Large Language Model for a general purpose with a large dataset,
+and then fine-tune it for specific aims with a much smaller dataset
 
 ---
 3. Describe LLM use cases
