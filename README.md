@@ -103,6 +103,9 @@ Chain-of-thought reasoning is the observation that models are better at getting 
 ![image](https://github.com/user-attachments/assets/a8e54c42-7afc-400d-b70c-6741a0dc73a5)
 
 
+![image](https://github.com/user-attachments/assets/9cfd27ce-b2d8-4902-aecc-d1ff8c60f1fd)
+
+
   
 
 each needs prompting in different way.
