@@ -25,7 +25,7 @@ add special trainings, right?
 
 LLMS
 -Large </br>
--Large training dataset
+-Large training dataset </br>
 -Large number of parameters
 
 ---
