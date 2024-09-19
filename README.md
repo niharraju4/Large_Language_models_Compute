@@ -84,9 +84,14 @@ For example, summarize the text of x, generate a poem in the style of x, give me
  
 Examples:  in this ex classify tect into neutral, negative or postive
 
+--
 
 5. dialog-tuned  </br>
-This model is trained to have a dialog by predicting the next response 
+This model is trained to have a dialog by predicting the next response
+
+Dialog-tuned models are a special case of instruction tuned where requests are typically framed as questions to a chat bot. </br>
+Dialog-tuning is expected to be in the context of a longer back-and-forth conversation, and typically works better with natural, question-like phrasings. </br>
+Chain-of-thought reasoning is the observation that models are better at getting the right answer when they first output text that explains the reason for the answer. 
 
 each needs prompting in different way.
 
