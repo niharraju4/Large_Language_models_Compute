@@ -12,6 +12,7 @@
    -Large Language Models refer to large, general-purpose language models </br>
     that can be pre-trained and then fine-tuned for specific purposes.
 
+---
 
 Examples:-  
 Imagine training a dog.Often you train your dog basic commands such as sit, come, down, and stay. </br>
@@ -19,12 +20,23 @@ These commands are normally sufficient for everyday life and help your dog becom
 Good boy! But, if you need a special-service dog, such as a police dog, a guide dog, or a hunting dog, you  </br>
 add special trainings, right? 
 
+
+---
+
+LLMS
+-Large </br>
+-Large training dataset
+-Large number of parameters
+
 ---
 
 These models are trained for general purposes to solve commonvlanguage problems such as text classification, 
 question answering,document summarization, and text generation across industries.The models can then be tailored 
 to solve specific problems in different fields such as retail, finance, and entertainment,
 using a relatively small size of field datasets. 
+
+
+
 
 ---
 
