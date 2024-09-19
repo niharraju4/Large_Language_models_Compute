@@ -93,7 +93,9 @@ Dialog-tuned models are a special case of instruction tuned where requests are t
 Dialog-tuning is expected to be in the context of a longer back-and-forth conversation, and typically works better with natural, question-like phrasings. </br>
 Chain-of-thought reasoning is the observation that models are better at getting the right answer when they first output text that explains the reason for the answer. 
 
-  ![image](https://github.com/user-attachments/assets/7e60da0d-d5c2-438e-b0d1-20f842b686a1)   </br>
+ ![image](https://github.com/user-attachments/assets/9067a2e4-ff14-4f0f-94c8-d23d8e5a0644)
+  
+  </br>
 
 
 ![image](https://github.com/user-attachments/assets/5928841d-8e64-484e-8804-587412f4b7a7)
