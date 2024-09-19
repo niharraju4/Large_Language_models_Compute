@@ -82,7 +82,9 @@ Next, we have instruction-tuned models. This type of model is trained to predict
 For example, summarize the text of x, generate a poem in the style of x, give me a list of keywords based on semantic similarity for x.
 
 3. instn-Tuned  </br>
-4. dialog-tuned  </br>
+Trained to predict a response to the intructions given in the input.  </br>
+
+5. dialog-tuned  </br>
 
 each needs prompting in different way.
 
