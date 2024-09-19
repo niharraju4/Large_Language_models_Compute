@@ -69,8 +69,23 @@ that the system is being asked to perform.
 
 3 Types of LLMs
 1. generic Lang Models </br>
-2. instn-Tuned  </br>
-3. dialog-tuned  </br>
+generic or raw lang models Generic language models: predict the next word based (technically token)based on the language in the training data.
+Here is a generic language model.
+In this example, the cat sat on...
+The next word should be ‘the’ and you can see that ‘the’ is most likely the next word.
+![image](https://github.com/user-attachments/assets/82734fd6-de30-4d8d-8510-59012190b2a6)
+
+
+
+Think of this model type as an ‘auto-complete’ in search.
+Next, we have instruction-tuned models. This type of model is trained to predict a response to the instructions given in the input.
+For example, summarize the text of x, generate a poem in the style of x, give me a list of keywords based on semantic similarity for x.
+
+3. instn-Tuned  </br>
+4. dialog-tuned  </br>
+
+each needs prompting in different way.
+
 
 ---
 3. Describe LLM use cases
