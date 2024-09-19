@@ -4,7 +4,8 @@
 # shortNotes
 
 1. Define LLMs
-   -LLMs are subset of DL
-   -LLMs and generative AI intersect, and they are both a part of deep learning
+   -LLMs are subset of DL </br>
+   -LLMs and generative AI intersect, and they are both a part of deep learning </br>
+   -This is a type of artificial intelligence that can produce new content - including text, images, audio, and synthetic data
 3. Describe LLM use cases
 4. Exp prompt tuning and describe google's gen AI development tools.
