@@ -58,6 +58,11 @@ pre-trained and fine-tuned
 
 which mean to pre-train a Large Language Model for a general purpose with a large dataset,
 and then fine-tune it for specific aims with a much smaller dataset
+---
+
+Prompt design is the process of creating a prompt
+that is tailored to the specific task
+that the system is being asked to perform. 
 
 ---
 3. Describe LLM use cases
