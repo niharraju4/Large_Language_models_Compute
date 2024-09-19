@@ -81,9 +81,12 @@ Trained to predict a response to the intructions given in the input.  </br>
 For example, summarize the text of x, generate a poem in the style of x, give me a list of keywords based on semantic similarity for x.
 ![image](https://github.com/user-attachments/assets/319b5009-d44d-4e92-bd8c-99b359a23ddd)
 
+ 
+Examples:  in this ex classify tect into neutral, negative or postive
 
 
 5. dialog-tuned  </br>
+This model is trained to have a dialog by predicting the next response 
 
 each needs prompting in different way.
 
